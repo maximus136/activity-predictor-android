@@ -1,4 +1,4 @@
-# activity-recognition-native
+# activity-predictor-android
 An activity predictor for Android, created on React Native.
 It shows the type of activity the user is engaging in, alongwith the confidence level.
 
