@@ -1,0 +1,67 @@
+{
+  "_from": "react-native-activity-recognition",
+  "_id": "react-native-activity-recognition@3.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-62gNSqArUJWOUA3RBV50ancmWCc=",
+  "_location": "/react-native-activity-recognition",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-activity-recognition",
+    "name": "react-native-activity-recognition",
+    "escapedName": "react-native-activity-recognition",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-activity-recognition/-/react-native-activity-recognition-3.2.0.tgz",
+  "_shasum": "eb680d4aa02b50958e500dd1055e746a77265827",
+  "_spec": "react-native-activity-recognition",
+  "_where": "/Users/jitnair/Documents/OpenSource/React-Native/ActivityRecognition",
+  "author": {
+    "name": "Gert Hengeveld",
+    "email": "ghengeveld@xebia.com"
+  },
+  "bugs": {
+    "url": "https://github.com/XebiaStudio/react-native-activity-recognition/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Gert Hengeveld",
+      "email": "ghengeveld@xebia.com"
+    },
+    {
+      "name": "Amit Kanwar",
+      "email": "kanwaramit92@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "React Native wrapper for the Activity Recognition API.",
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-native": "^0.35.0"
+  },
+  "homepage": "https://github.com/XebiaStudio/react-native-activity-recognition#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "activity",
+    "recognition",
+    "detection"
+  ],
+  "license": "GPL",
+  "main": "index.js",
+  "name": "react-native-activity-recognition",
+  "repository": {
+    "url": "git+https://github.com/XebiaStudio/react-native-activity-recognition.git",
+    "type": "git"
+  },
+  "scripts": {},
+  "version": "3.2.0"
+}
